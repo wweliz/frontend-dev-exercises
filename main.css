@@ -1,0 +1,6 @@
+.chart-wrapper {
+  width: 700px;
+  text-align: center;
+}
+
+canvas { padding: 20px; }
